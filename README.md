@@ -167,11 +167,11 @@ title("Decimated Signal (Factor = 3)")
 
 <img src="https://img.sanishtech.com/u/d39ed3e349968569f78db79c39706bb9.png" alt="Screenshot 2026-03-14 091322" loading="lazy" style="max-width:100%;height:auto;">
 
-<img src="https://img.sanishtech.com/u/4fb0b08255a06f3d2ed0e0b9b8e2eb59.png" alt="Screenshot 2026-03-14 092207" width="1918" height="895" loading="lazy" style="max-width:100%;height:auto;">
+<img src="https://img.sanishtech.com/u/4fb0b08255a06f3d2ed0e0b9b8e2eb59.png" alt="Screenshot 2026-03-14 092207" width="1500" height="800" loading="lazy" style="max-width:100%;height:auto;">
 
 ### Task 2:
 
-<img src="https://img.sanishtech.com/u/a78605d0482d1252868381ed02053d28.png" alt="Screenshot 2026-03-14 092502" width="1919" height="903" loading="lazy" style="max-width:100%;height:auto;">
+<img src="https://img.sanishtech.com/u/a78605d0482d1252868381ed02053d28.png" alt="Screenshot 2026-03-14 092502" width="1500" height="800" loading="lazy" style="max-width:100%;height:auto;">
 
 # RESULT: 
 Thus we have obtained the output.
