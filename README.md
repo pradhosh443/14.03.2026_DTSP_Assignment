@@ -166,9 +166,6 @@ title("Decimated Signal (Factor = 3)")
 ### Task 1:
 <img width="1500" height="800" alt="68747470733a2f2f696d672e73616e697368746563682e636f6d2f752f64333965643365333439393638353639663738646237396333393730366262392e706e67" src="https://github.com/user-attachments/assets/4a9bff3b-476d-4759-8def-3da273175255" />
 
-
-<img src="https://img.sanishtech.com/u/4fb0b08255a06f3d2ed0e0b9b8e2eb59.png" alt="Screenshot 2026-03-14 092207" width="1500" height="800" loading="lazy" style="max-width:100%;height:auto;">
-
 ### Task 2:
 
 <img src="https://img.sanishtech.com/u/a78605d0482d1252868381ed02053d28.png" alt="Screenshot 2026-03-14 092502" width="1500" height="800" loading="lazy" style="max-width:100%;height:auto;">
